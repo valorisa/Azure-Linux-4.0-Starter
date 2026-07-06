@@ -12,7 +12,7 @@ Bienvenue dans le **Guide de démarrage Azure Linux 4.0**, un tutoriel complet e
 > **Statut preview** : Azure Linux 4.0 a été annoncé à Microsoft Build (juin 2026) et est actuellement en **preview publique**. Microsoft ne le supporte officiellement que sur Azure ; l'utiliser en local (ISO) relève d'un support communautaire, réservé à l'évaluation, pas à la production.
 
 ## Table des matières
-- [Pourquoi Azure Linux 4.0 ?](#pourquoi-azure-linux-40)
+- [Pourquoi Azure Linux 4.0?](#pourquoi-azure-linux-40)
 - [Qu'est-ce qu'Azure Linux ?](#quest-ce-quazure-linux)
 - [Configuration requise](#configuration-requise)
 - [Étapes d'installation](#étapes-dinstallation)
@@ -22,7 +22,7 @@ Bienvenue dans le **Guide de démarrage Azure Linux 4.0**, un tutoriel complet e
 - [Contribuer](#contribuer)
 - [Licence](#licence)
 
-## Pourquoi Azure Linux 4.0 ?
+## Pourquoi Azure Linux 4.0?
 
 Plus des deux tiers des cœurs de calcul Azure tournent déjà sous Linux. Azure Linux 4.0 est la distribution maison de Microsoft — désormais basée sur Fedora, contrairement aux versions précédentes issues de VMware Photon OS — optimisée pour le cloud et les serveurs, et disponible pour la première fois en ISO téléchargeable pour un test local hors Azure.
 
