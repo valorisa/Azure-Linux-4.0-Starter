@@ -13,7 +13,7 @@ Bienvenue dans le **Guide de démarrage Azure Linux 4.0**, un tutoriel complet e
 
 ## Table des matières
 - [Pourquoi Azure Linux 4.0?](#pourquoi-azure-linux-40)
-- [Qu'est-ce qu'Azure Linux ?](#quest-ce-quazure-linux)
+- [Qu'est-ce qu'Azure Linux?](#quest-ce-quazure-linux)
 - [Configuration requise](#configuration-requise)
 - [Étapes d'installation](#étapes-dinstallation)
 - [Configuration post-installation](#configuration-post-installation)
@@ -28,7 +28,7 @@ Plus des deux tiers des cœurs de calcul Azure tournent déjà sous Linux. Azure
 
 Pour les débutants, c'est l'occasion d'explorer une distribution de niveau entreprise tout en apprenant les bases de l'administration système : gestion des paquets avec le nouvel outil `dnf5`, SELinux, et le packaging RPM.
 
-## Qu'est-ce qu'Azure Linux ?
+## Qu'est-ce qu'Azure Linux?
 
 Azure Linux (anciennement CBL-Mariner) est une distribution Linux open source développée par Microsoft. La version 4.0 marque un tournant : elle est construite directement sur un instantané de Fedora 43, utilise des fichiers de configuration TOML (remplaçant les anciens fichiers `.spec`), et embarque :
 
